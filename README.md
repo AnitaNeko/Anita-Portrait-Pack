@@ -9,7 +9,7 @@ Hello
 2) Unzip the "Anita Portrait Pack"
 3) Put the 6 "Portraits" ZIP file inside of the folder Portraits than you can find like this : "Anita Portrait Pack" -> Graphics -> Portraits
 4) Unzip the all 6 ZIP "Portraits"
-5) Put the mod inside of the mods floder of the game
+5) Put the mod inside of the mods folder of the game
 6) Enable the mod
 7) Enjoy and have fun
 
