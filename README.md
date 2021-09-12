@@ -18,12 +18,12 @@ Hello
 #DISCLAIMER: Image are own by their owner and all right go to them
 
 
-#Content: 1501 image for female protagonist and 59 male protagonist portrait
+#Content: 1518 image for female protagonist and 70 male protagonist portrait
 
 
 #Changelog:
     -Version 1.0.0: Initial release
-          -1560 Image
+          -1588 Image
           -Compatible with almost all mod
           
           
